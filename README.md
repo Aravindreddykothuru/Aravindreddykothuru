@@ -17,7 +17,7 @@
   <a href="https://www.linkedin.com/in/aravind-reddy-9994052a4" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:aravindreddy8189@gmail.com">
+  <a href="mailto:farmrent862@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
@@ -45,7 +45,7 @@
         <li>👯 <strong>Looking to collaborate on:</strong> Open Source Projects, Machine Learning Applications, and Full-Stack Web Development</li>
         <li>🤔 <strong>Looking for help with:</strong> Advanced Backend Development, Cloud Deployment, and Scalable AI Systems</li>
         <li>💬 <strong>Ask me about:</strong> Java, Python, Machine Learning, Computer Vision, Node.js, PostgreSQL, and Web Development</li>
-        <li>📫 <strong>How to reach me:</strong> <a href="mailto:aravindreddy8189@gmail.com">aravindreddy8189@gmail.com</a></li>
+        <li>📫 <strong>How to reach me:</strong> <a href="mailto:farmrent862@gmail.com">farmrent862@gmail.com</a></li>
         <li>😄 <strong>Pronouns:</strong> He/Him</li>
         <li>⚡ <strong>Fun fact:</strong> Built a multi-face recognition attendance system with ~97% accuracy, enjoy solving real-world problems through AI and software development, and won an ideathon.</li>
       </ul>
